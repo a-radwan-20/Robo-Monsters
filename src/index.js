@@ -1,14 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import {robots} from './robots'
 import reportWebVitals from './reportWebVitals';
+import 'tachyons';
+import App from './App'
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById('root')
+      <App robots={robots}/>,
+      document.getElementById('root')
 );
 
 // If you want to start measuring performance in your app, pass a function
