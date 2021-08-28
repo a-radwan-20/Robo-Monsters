@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Robo-Monsters/static/css/main.84f21a9e.chunk.css",
+    "main.js": "/Robo-Monsters/static/js/main.4601a6b7.chunk.js",
+    "main.js.map": "/Robo-Monsters/static/js/main.4601a6b7.chunk.js.map",
+    "runtime-main.js": "/Robo-Monsters/static/js/runtime-main.56597bb3.js",
+    "runtime-main.js.map": "/Robo-Monsters/static/js/runtime-main.56597bb3.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/Robo-Monsters/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.eea6cf59.chunk.js": "/Robo-Monsters/static/js/2.eea6cf59.chunk.js",
+    "static/js/2.eea6cf59.chunk.js.map": "/Robo-Monsters/static/js/2.eea6cf59.chunk.js.map",
+    "static/js/3.0f4a524b.chunk.js": "/Robo-Monsters/static/js/3.0f4a524b.chunk.js",
+    "static/js/3.0f4a524b.chunk.js.map": "/Robo-Monsters/static/js/3.0f4a524b.chunk.js.map",
+    "index.html": "/Robo-Monsters/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/Robo-Monsters/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.84f21a9e.chunk.css.map": "/Robo-Monsters/static/css/main.84f21a9e.chunk.css.map",
+    "static/js/2.eea6cf59.chunk.js.LICENSE.txt": "/Robo-Monsters/static/js/2.eea6cf59.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Robo-Monsters/static/media/Auxhie-Regular.503fd078.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56597bb3.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.eea6cf59.chunk.js",
+    "static/css/main.84f21a9e.chunk.css",
+    "static/js/main.4601a6b7.chunk.js"
+  ]
+}
