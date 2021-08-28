@@ -49,5 +49,5 @@ export const robots = [
         id: 10,
         name: 'koto',
         email: 'koto@gmail.com',
-    },
+    }
 ]
